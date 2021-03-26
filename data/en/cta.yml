@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/blue-light.jpg"
+  bg_image_webp : "images/backgrounds/blue-light.webp"
+  title : "Quantum Academy Of Science And Technology - Keio University"
+  content : "Keio University participates in Quantum Academy Of Science And Technology as one of univertities. We are developping an educational standard program to learn quantum technology from basic to applied. We are subsidized by the Q-LEAP Human Resources Development Program."
+  button:
+    enable : true
+    label : "Quantum Academy Of Science And Technology"
+    link : "https://qacademy.jp/"

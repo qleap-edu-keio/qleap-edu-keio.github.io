@@ -1,0 +1,16 @@
+##################################### pricing ##############################
+pricing:
+  enable : false 
+  title : 私たちの研究 
+  pricing_table :
+    # pricing table loop
+    #- name : 慶應義塾大学量子コンピューティングセンター 
+    #  button:
+      #  label : "慶應義塾大学量子コンピューティングセンター"
+      #  link : "https://quantum.keio.ac.jp/"
+
+    #- name : 先進的量子アーキテクチャ研究グループ 
+    #  button:
+    #    label : "先進的量子アーキテクチャ研究グループ"
+    #    link : "https://aqua.sfc.wide.ad.jp/"
+

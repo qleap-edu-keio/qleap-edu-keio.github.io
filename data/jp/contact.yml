@@ -1,0 +1,25 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : お問い合せ 
+  subtitle : 慶應義塾大学　量子技術高等教育拠点 
+# content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "〒252-0882 神奈川県藤沢市遠藤5322 慶應義塾大学湘南藤沢キャンパス 量子技術高等教育拠点"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "メールアドレス: qleapedu@gmail.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "お名前"
+    email : "メールアドレス"
+    subject : "件名"
+    message : "お問合せ内容"
+    submit : "送信"

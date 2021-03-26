@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "量子技術高等教育拠点 - 慶應義塾大学"
+  content : "量子コンピューティングの発展と先進的量子アーキテクチャの構築"
+  button:
+    enable : true 
+    label : "私たちについて"
+    link : "#cta"

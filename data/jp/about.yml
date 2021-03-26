@@ -1,0 +1,15 @@
+############################# About ###################################
+about:
+  enable : false 
+  title : 私たちについて 
+  about_item :
+  - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+    title : 量子技術高等教育拠点 - 慶應義塾大学
+    content : 慶應義塾大学は量子技術高等教育拠点の参加機関の一つとして、基礎から応用にわたり幅広く量子技術を学ぶ教育プログラムを展開しています。Q-LEAP人材育成プログラムの助成を受けています。 
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons 
+    title : 慶應義塾大学量子コンピューティングセンター 
+    content : 慶應義塾大学量子コンピューティングセンターでは量子コンピューティングを発展させる研究に日々取り組んでいます。 
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons 
+    title : 先進的量子アーキテクチャ研究グループ 
+    content : 慶應義塾大学AQUAでは有用な量子情報技術の展開を加速させるため、理論的アルゴリズムと現実世界の実験のギャップを埋めることを目的として研究に取り組んでいます。 
