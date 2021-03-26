@@ -1,5 +1,5 @@
 ################################ Default configuration ###################
-baseURL = "https://qleap-edu-keio/qleap-edu-keio.github.io"
+baseURL = "https://qleap-edu-keio.github.io/"
 title = "Keio QLEAP"
 theme = "meghna-hugo"
 themesDir = "../.."
