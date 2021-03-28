@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://https://qleap-edu-keio.github.io/jp/categories/</loc>
+    <loc>https://qleap-edu-keio.github.io/jp/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://https://qleap-edu-keio.github.io/categories/"
+                href="https://qleap-edu-keio.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://https://qleap-edu-keio.github.io/jp/categories/"
+                href="https://qleap-edu-keio.github.io/jp/categories/"
                 />
   </url><url>
-    <loc>https://https://qleap-edu-keio.github.io/jp/</loc>
+    <loc>https://qleap-edu-keio.github.io/jp/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://https://qleap-edu-keio.github.io/"
+                href="https://qleap-edu-keio.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://https://qleap-edu-keio.github.io/jp/"
+                href="https://qleap-edu-keio.github.io/jp/"
                 />
   </url><url>
-    <loc>https://https://qleap-edu-keio.github.io/jp/tags/</loc>
+    <loc>https://qleap-edu-keio.github.io/jp/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://https://qleap-edu-keio.github.io/tags/"
+                href="https://qleap-edu-keio.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://https://qleap-edu-keio.github.io/jp/tags/"
+                href="https://qleap-edu-keio.github.io/jp/tags/"
                 />
   </url>
 </urlset>

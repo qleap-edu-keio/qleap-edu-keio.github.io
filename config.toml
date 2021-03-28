@@ -1,5 +1,5 @@
 ################################ Default configuration ###################
-baseURL = "https://https://qleap-edu-keio.github.io/"
+baseURL = "https://qleap-edu-keio.github.io/"
 title = "QLEAP Education - Keio University"
 theme = "meghna-hugo"
 themesDir = "../.."
@@ -99,7 +99,7 @@ weight = 9
 [[Languages.en.menu.main]]
 name = "Educational Material Database"
 pre = ""
-url = "https://aqua.sfc.wide.ad.jp/"
+url = "https://qacademy.jp/material/"
 weight = 10 
 
 [[Languages.en.menu.main]]
@@ -168,7 +168,7 @@ weight = 9
 [[Languages.jp.menu.main]]
 name = "教材データベース"
 pre = ""
-url = "https://aqua.sfc.wide.ad.jp/"
+url = "https://qacademy.jp/material/"
 weight = 10 
 
 [[Languages.jp.menu.main]]

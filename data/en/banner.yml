@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Quantum Academy of Science and Technology - Keio University"
-  content : "Education in quantum communications and Quantum Internet"
+  content : "Education in Quantum Communications and Quantum Internet"
   button :
     enable : true
     label : "About Us"
