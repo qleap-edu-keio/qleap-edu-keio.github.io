@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://https://qleap-edu-keio.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://examplesite.com/jp/categories/"
+                href="https://https://qleap-edu-keio.github.io/jp/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/categories/"
+                href="https://https://qleap-edu-keio.github.io/categories/"
                 />
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://https://qleap-edu-keio.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://examplesite.com/jp/"
+                href="https://https://qleap-edu-keio.github.io/jp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/"
+                href="https://https://qleap-edu-keio.github.io/"
                 />
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://https://qleap-edu-keio.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://examplesite.com/jp/tags/"
+                href="https://https://qleap-edu-keio.github.io/jp/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/tags/"
+                href="https://https://qleap-edu-keio.github.io/tags/"
                 />
   </url>
 </urlset>

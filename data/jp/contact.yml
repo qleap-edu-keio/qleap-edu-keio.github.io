@@ -8,7 +8,7 @@ contact:
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "〒252-0882 神奈川県藤沢市遠藤5322 慶應義塾大学湘南藤沢キャンパス 量子技術高等教育拠点"
+      info : "住所: 〒252-0882 神奈川県藤沢市遠藤5322 慶應義塾大学湘南藤沢キャンパス 量子技術高等教育拠点"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "メールアドレス: qleapedu@gmail.com"
@@ -16,7 +16,7 @@ contact:
 
   # Contact form
   contact_form:
-    enable : true
+    enable : false 
     form_action : "#" #contact form works with https://formspree.io
     name : "お名前"
     email : "メールアドレス"

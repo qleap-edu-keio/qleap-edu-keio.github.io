@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "量子技術高等教育拠点 - 慶應義塾大学"
-  content : "量子コンピューティングの発展と先進的量子アーキテクチャの構築"
+  content : "量子通信と量子インターネットの教育"
   button:
     enable : true 
     label : "私たちについて"

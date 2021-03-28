@@ -1,6 +1,6 @@
 ################################ Default configuration ###################
-baseURL = "https://qleap-edu-keio.github.io/"
-title = "Keio QLEAP"
+baseURL = "https://https://qleap-edu-keio.github.io/"
+title = "QLEAP Education - Keio University"
 theme = "meghna-hugo"
 themesDir = "../.."
 # post pagination
@@ -79,12 +79,6 @@ weight = 4
 #weight = 6
 
 [[Languages.en.menu.main]]
-name = "contact"
-pre = "#"
-url = "contact"
-weight = 9 
-
-[[Languages.en.menu.main]]
 name = "Keio University Quantum Computing Center"
 pre = ""
 url = "https://quantum.keio.ac.jp/"
@@ -95,6 +89,24 @@ name = "Advancing Quantum Architecture Research Group"
 pre = ""
 url = "https://aqua.sfc.wide.ad.jp/"
 weight = 8 
+
+[[Languages.en.menu.main]]
+name = "Online Lecture"
+pre = ""
+url = "https://q-leap.lms.nii.ac.jp/auth/shibboleth/login.php"
+weight = 9 
+
+[[Languages.en.menu.main]]
+name = "Educational Material Database"
+pre = ""
+url = "https://aqua.sfc.wide.ad.jp/"
+weight = 10 
+
+[[Languages.en.menu.main]]
+name = "contact"
+pre = "#"
+url = "contact"
+weight = 11 
 
 
 
@@ -136,12 +148,6 @@ weight = 4
 #weight = 6
 
 [[Languages.jp.menu.main]]
-name = "連絡先"
-pre = "#"
-url = "contact"
-weight = 9 
-
-[[Languages.jp.menu.main]]
 name = "慶應義塾大学量子コンピューティングセンター"
 pre = ""
 url = "https://quantum.keio.ac.jp/"
@@ -152,6 +158,24 @@ name = "先進的量子アーキテクチャ"
 pre = ""
 url = "https://aqua.sfc.wide.ad.jp/"
 weight = 8 
+
+[[Languages.jp.menu.main]]
+name = "オンライン講義"
+pre = ""
+url = "https://q-leap.lms.nii.ac.jp/auth/shibboleth/login.php"
+weight = 9 
+
+[[Languages.jp.menu.main]]
+name = "教材データベース"
+pre = ""
+url = "https://aqua.sfc.wide.ad.jp/"
+weight = 10 
+
+[[Languages.jp.menu.main]]
+name = "連絡先"
+pre = "#"
+url = "contact"
+weight = 11 
 
 
 ############################# Default Parameters ##########################
