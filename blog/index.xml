@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on QLEAP Education - Keio University</title>
+    <link>https://qleap-edu-keio.github.io/blog/</link>
+    <description>Recent content in Blogs on QLEAP Education - Keio University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; QLEAP Education Project Keio University</copyright>
+    <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://qleap-edu-keio.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our website has been released</title>
+      <link>https://qleap-edu-keio.github.io/blog/simple-blog-post-1/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://qleap-edu-keio.github.io/blog/simple-blog-post-1/</guid>
+      <description>Quantum Academy of Science and Technology - Keio University, we are happy to announce that our website has been released.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -72,11 +72,11 @@ weight = 4
 #url = "pricing"
 #weight = 5
 
-#[[Languages.en.menu.main]]
-#name = "blog"
-#pre = "#"
-#url = "blog"
-#weight = 6
+[[Languages.en.menu.main]]
+name = "News"
+pre = "#"
+url = "blog"
+weight = 6
 
 [[Languages.en.menu.main]]
 name = "Keio University Quantum Computing Center"
@@ -141,11 +141,11 @@ weight = 4
 #url = "pricing"
 #weight = 5
 
-#[[Languages.jp.menu.main]]
-#name = "私たちの研究"
-#pre = "#"
-#url = "blog"
-#weight = 6
+[[Languages.jp.menu.main]]
+name = "ニュース"
+pre = "#"
+url = "blog"
+weight = 6
 
 [[Languages.jp.menu.main]]
 name = "慶應義塾大学量子コンピューティングセンター"
@@ -244,8 +244,8 @@ copyright = "Copyright &copy; QLEAP Education Project Keio University"
 
 ################################ Japanese Language ########################
 [Languages.jp]
-languageName = "Jp"
-languageCode = "Jp-Jp"
+languageName = "Ja"
+languageCode = "ja-jp"
 contentDir = "content/japanese"
 weight = 2
 home = "Accueil"

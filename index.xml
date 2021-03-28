@@ -6,6 +6,34 @@
     <description>Recent content on QLEAP Education - Keio University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; QLEAP Education Project Keio University</copyright><atom:link href="https://qleap-edu-keio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; QLEAP Education Project Keio University</copyright>
+    <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://qleap-edu-keio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our website has been released</title>
+      <link>https://qleap-edu-keio.github.io/blog/simple-blog-post-1/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://qleap-edu-keio.github.io/blog/simple-blog-post-1/</guid>
+      <description>Quantum Academy of Science and Technology - Keio University, we are happy to announce that our website has been released.</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://qleap-edu-keio.github.io/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qleap-edu-keio.github.io/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://qleap-edu-keio.github.io/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qleap-edu-keio.github.io/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
   </channel>
 </rss>

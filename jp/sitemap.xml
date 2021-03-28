@@ -2,6 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://qleap-edu-keio.github.io/jp/blog/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qleap-edu-keio.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://qleap-edu-keio.github.io/jp/blog/"
+                />
+  </url><url>
+    <loc>https://qleap-edu-keio.github.io/jp/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qleap-edu-keio.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://qleap-edu-keio.github.io/jp/"
+                />
+  </url><url>
+    <loc>https://qleap-edu-keio.github.io/jp/blog/simple-blog-post-1/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qleap-edu-keio.github.io/blog/simple-blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://qleap-edu-keio.github.io/jp/blog/simple-blog-post-1/"
+                />
+  </url><url>
+    <loc>https://qleap-edu-keio.github.io/jp/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qleap-edu-keio.github.io/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://qleap-edu-keio.github.io/jp/author/"
+                />
+  </url><url>
     <loc>https://qleap-edu-keio.github.io/jp/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -14,16 +65,28 @@
                 href="https://qleap-edu-keio.github.io/jp/categories/"
                 />
   </url><url>
-    <loc>https://qleap-edu-keio.github.io/jp/</loc>
+    <loc>https://qleap-edu-keio.github.io/jp/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qleap-edu-keio.github.io/"
+                href="https://qleap-edu-keio.github.io/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://qleap-edu-keio.github.io/jp/"
+                href="https://qleap-edu-keio.github.io/jp/author/john-doe/"
+                />
+  </url><url>
+    <loc>https://qleap-edu-keio.github.io/jp/author/mark-dinn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qleap-edu-keio.github.io/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://qleap-edu-keio.github.io/jp/author/mark-dinn/"
                 />
   </url><url>
     <loc>https://qleap-edu-keio.github.io/jp/tags/</loc>
