@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on QLEAP Education - Keio University</title>
-    <link>https://qleap-edu-keio.github.io/jp/tags/</link>
+    <link>https://keio-u.qacademy.jp/jp/tags/</link>
     <description>Recent content in Tags on QLEAP Education - Keio University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <copyright>Copyright &amp;copy; 量子技術高等教育拠点 慶應義塾大学</copyright><atom:link href="https://qleap-edu-keio.github.io/jp/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 量子技術高等教育拠点 慶應義塾大学</copyright><atom:link href="https://keio-u.qacademy.jp/jp/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
