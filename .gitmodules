@@ -4,6 +4,3 @@
 [submodule "themes/meghna-hugo"]
 	path = themes/meghna-hugo
 	url = https://github.com/qleap-edu-keio/qleap-edu-keio.github.io.git
-[submodule "themes"]
-	path = themes
-	url = https://github.com/qleap-edu-keio/qleap-edu-keio.github.io.git
