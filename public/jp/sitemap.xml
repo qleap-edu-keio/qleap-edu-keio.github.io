@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://keio-u.qacademy.jp/jp/blog/simple-blog-post-2/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://keio-u.qacademy.jp/blog/simple-blog-post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://keio-u.qacademy.jp/jp/blog/simple-blog-post-2/"
+                />
+  </url><url>
     <loc>https://keio-u.qacademy.jp/jp/blog/</loc>
-    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +29,7 @@
                 />
   </url><url>
     <loc>https://keio-u.qacademy.jp/jp/</loc>
-    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
