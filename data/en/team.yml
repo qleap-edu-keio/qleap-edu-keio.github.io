@@ -1,0 +1,36 @@
+############################### team ############################
+team:
+  enable : true
+  title : Other Participating Organizations 
+  team_member :
+    # team member loop
+    - name : National Institute of Informatics 
+      image_webp : images/team/team-1.webp
+      image : images/team/team-1.jpg
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.nii.ac.jp/"
+        
+    # team member loop
+    - name : The University of Tokyo 
+      image_webp : images/team/team-2.webp
+      image : images/team/team-2.jpg
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://tokyo-u.qacademy.jp/"
+        
+    # team member loop
+    - name : Nagoya University 
+      image_webp : images/team/team-3.webp
+      image : images/team/team-3.jpg
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://nagoya-u.qacademy.jp/#Introduction"
+        
+    # team member loop
+    - name : Kyushu University 
+      image_webp : images/team/team-4.webp
+      image : images/team/team-4.jpg
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://kyushu-u.qacademy.jp/"

@@ -1,0 +1,25 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Quantum Academy of Science and Technology - Keio University
+#  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Address: Quantum Academy of Science and Technology, Keio University Shonan Fujisawa Campus 5322 Endo, Fujisawa-shi, Kanagawa 252-0882 Japan"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: qleapedu@gmail.com"
+
+
+  # Contact form
+  contact_form:
+    enable : false 
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"
