@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on QLEAP Education - Keio University</title>
-    <link>https://qleap-edu-keio.github.io/blog/</link>
+    <link>https://keio-u.qacademy.jp/blog/</link>
     <description>Recent content in Blogs on QLEAP Education - Keio University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; QLEAP Education Project Keio University</copyright>
-    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://qleap-edu-keio.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://keio-u.qacademy.jp/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Internship 2021 was successfully completed</title>
-      <link>https://qleap-edu-keio.github.io/blog/simple-blog-post-2/</link>
+      <link>https://keio-u.qacademy.jp/blog/simple-blog-post-2/</link>
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://qleap-edu-keio.github.io/blog/simple-blog-post-2/</guid>
+      <guid>https://keio-u.qacademy.jp/blog/simple-blog-post-2/</guid>
       <description>QLEAP Education Project Keio University conducted a 6-week internship program from July 26th to Sep 3rd.</description>
     </item>
     
     <item>
       <title>Our website has been released</title>
-      <link>https://qleap-edu-keio.github.io/blog/simple-blog-post-1/</link>
+      <link>https://keio-u.qacademy.jp/blog/simple-blog-post-1/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://qleap-edu-keio.github.io/blog/simple-blog-post-1/</guid>
+      <guid>https://keio-u.qacademy.jp/blog/simple-blog-post-1/</guid>
       <description>Quantum Academy of Science and Technology - Keio University, we are happy to announce that our website has been released.</description>
     </item>
     
